@@ -6,5 +6,6 @@ int main(void) {
     cin.tie(nullptr);
     cout.tie(nullptr);
     cout << "riha";
+    cout << "confict hehe";
     return 0;
 }
